@@ -1,0 +1,82 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    position: relative;
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+
+}
+.main {
+    width: 240px;
+    
+    padding: 15px;
+    background-color: hsl(216, 50%, 16%);
+    color: hsl(215, 28%, 46%);
+    border-radius: 12px;
+}
+.equil {
+    width: 100%;
+    border-radius: 12px;
+}
+.attribution {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translatex(-50%);
+    color: hsl(213, 26%, 35%);
+    font-size: 0.7rem;
+    
+}
+.div {
+    display: flex;
+    justify-content: space-between;
+}
+.span {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    font-size: 0.8rem;
+    
+}
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 1.1rem;
+}
+p {
+    
+    font-weight: normal;
+    font-size: 0.8rem;
+}
+.avatar {
+    border-radius: 50%;
+    border: 1px solid white;
+    width: 20px;
+    margin-right: 10px;
+    margin-top: 5px;
+     
+    
+}
+hr {
+    border: none;
+    border-top: 1px solid white;
+    border-color: hsl(214, 21%, 27%);
+}
+.ju {
+    color: white;
+    font-weight: lighter;
+    font-size:smaller;
+}
+a {
+    color: hsl(210, 5%, 44%);
+}
+.etheruem {
+    color: hsl(178, 100%, 50%)
+}
+.jul {
+    
+    font-weight: 300;
+    font-size: 0.9rem;
+}
